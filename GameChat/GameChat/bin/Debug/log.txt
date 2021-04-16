@@ -1,0 +1,28 @@
+
+2020-11-09 8:05:06 PM: Server has Conncted 
+2020-11-09 8:05:06 PM: Client has Connected 
+2020-11-09 8:05:13 PM: >>Testing one two three! 
+2020-11-09 8:05:21 PMOh hello there client! 
+
+2020-11-09 8:05:24 PM: Client has disconnected! 
+2020-11-09 8:07:22 PM: Server has Conncted 
+2020-11-09 8:07:22 PM: Client has Connected 
+2020-11-09 8:07:27 PM: Client: Test!
+2020-11-09 8:07:32 PM: Server: Server message!
+
+2020-11-09 8:07:37 PM: Client has disconnected! 
+2020-11-12 8:58:18 AM: Server has Conncted 
+2020-11-12 8:58:18 AM: Client has Connected 
+2020-11-12 8:58:29 AM: Client: Hello Server!
+2020-11-12 8:58:36 AM: Server: Hello Client!
+
+2020-11-12 8:58:41 AM: Client has disconnected! 
+2020-11-12 8:59:04 AM: Server has Conncted 
+2020-11-12 8:59:04 AM: Client has Connected 
+2020-11-12 8:59:17 AM: Server: Hello Client!
+
+2020-11-12 8:59:26 AM: Client: Hello server!
+2020-11-12 8:59:58 AM: Server has Conncted 
+2020-11-12 8:59:58 AM: Client has Connected 
+2020-11-12 9:00:03 AM: Client: okay
+2020-11-12 9:00:11 AM: Server has disconnected! 

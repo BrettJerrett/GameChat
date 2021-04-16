@@ -1,0 +1,8 @@
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.csprojAssemblyReference.cache
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.UserControl1.resources
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.csproj.GenerateResource.cache
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.csproj.CoreCompileInputs.cache
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\bin\Debug\GameChat.dll
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\bin\Debug\GameChat.pdb
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.dll
+C:\Users\brett\Desktop\NSCC\Advanced OOP\Assignments\GameChat\GameChat\obj\Debug\GameChat.pdb
